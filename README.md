@@ -1,7 +1,3 @@
-Perfecto, vamos a cerrar esto con un **README nivel reclutador (junior → casi senior)** 🔥
-Listo para copiar y pegar en tu repo.
-
----
 
 # 📊 EDA using SQL – Instagram Reach Analysis
 
